@@ -14,6 +14,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 import datetime as dt
 import warnings
+import os
 warnings.filterwarnings('ignore')
 
 # ============================
@@ -857,3 +858,4 @@ def display_association_rules(df_market, market_name):
 # ============================
 if __name__ == "__main__":
     main()
+
