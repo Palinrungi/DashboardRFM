@@ -8,4 +8,4 @@
 
 # Run streamlit app
 
-    streamlit run dashboard.py
+    streamlit run dashboard_rfm.py
