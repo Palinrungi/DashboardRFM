@@ -170,12 +170,8 @@ def load_data():
 
 Jika ada pertanyaan atau issue, silakan buat issue di repository ini.
 
-## License
-
-MIT License - Feel free to use and modify!
-
 ---
 
-**Happy Analyzing! **
+
 
 
